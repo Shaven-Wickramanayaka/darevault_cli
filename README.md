@@ -21,7 +21,7 @@
 
 `curl -X POST http://13.49.74.9:3000/add -H "Content-Type: application/json" -d '{"dare":"creative dare idea","created_by":"your username"}'`
 
-### Windows
+### Windows (Powershell)
 
 `curl.exe -X POST http://13.49.74.9:3000/add -H "Content-Type: application/json" -d '{"dare":"creative dare idea","created_by":"your username"}'`
 <br>
